@@ -8,7 +8,7 @@ body {
     background-color: transparent;
     color: white;
     background-image: linear-gradient(rgba(5, 7, 22, 0.65), rgba(5, 7, 22, 0.65)),
-    url(/images/stars.jpg);
+    url("../images/stars.jpg");
 
     background-size: cover;
     background-position: center;
